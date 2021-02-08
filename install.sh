@@ -15,10 +15,10 @@ HOME="${USER_HOME:-${HOME}}"
 # @Copyright     : Copyright: (c) 2021 Jason Hempstead, CasjaysDev
 # @Created       : Sunday, Feb 07, 2021 19:25 EST
 # @File          : install.sh
-# @Description   : 
-# @TODO          : 
-# @Other         : 
-# @Resource      : 
+# @Description   :
+# @TODO          :
+# @Other         :
+# @Resource      :
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Import functions
 CASJAYSDEVDIR="${CASJAYSDEVDIR:-/usr/local/share/CasjaysDev/scripts}"
